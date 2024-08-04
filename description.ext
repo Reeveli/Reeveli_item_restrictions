@@ -1,0 +1,10 @@
+
+class Extended_PreInit_EventHandlers
+{
+	class Rev_item_settings {init = "call compile preprocessFileLineNumbers 'scripts\Reeveli_fnc\Rev_item_restrictions\Rev_item_settings.sqf'";};
+};
+
+
+class cfgFunctions {
+	#include "scripts\Reeveli_fnc\Reevelis_fnc.hpp"	
+};
