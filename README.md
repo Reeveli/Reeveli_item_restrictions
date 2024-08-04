@@ -1,5 +1,5 @@
 # Reeveli_item_restrictions
-Item restrioction system for Arma 3.
+Item restriction system for Arma 3.
 
 Items to be restricted and unit classes that can use the resticted items are defined by their class names in scripts\Reeveli_fnc\Rev_item_restrictions\fn_item_restrictions.sqf
 Should there be a problem with the system while in-game the script can be turned off at any time via addon option in "Reeveli's Item Restrictions".
