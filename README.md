@@ -13,9 +13,3 @@ For futher information, question and bug reports please contact Reeveli.
 
 ## License
 Scripts included in this repository can be used with attribution under [APL-SA](https://www.bohemia.net/community/licenses/arma-public-license-share-alike) license.
-
-
-
-## Topics
-
-* [Test](./test.md)
